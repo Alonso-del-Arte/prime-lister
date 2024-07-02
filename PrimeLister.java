@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package primelister;
+package org.oeis.primes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,7 +16,9 @@ public class PrimeLister {
     
     public static final int DEFAULT_THRESHOLD = 1000;
 
+    // TODO: Break into smaller functions
     /**
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
@@ -65,3 +67,4 @@ public class PrimeLister {
     }
     
 }
+
