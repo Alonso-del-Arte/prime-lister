@@ -1,5 +1,7 @@
 # Prime Lister
 
+## Original Read Me
+
 Just a simple program to list prime numbers using the sieve of Eratosthenes with 
 only very basic optimizations.
 
@@ -21,4 +23,10 @@ not slow down the test suite by anything more than a few seconds, if that.
 But with this repository, I give myself the option to refine and specialize the 
 prime listing program beyond what is necessary for my unit testing of the other 
 program.
+
+## Updates for July 1, 2024
+
+I hadn't touched this program in seven years. Refining and specializing? I 
+haven't done that with this program. Before I try to do any of that, there's a 
+whole lot of clean up and dressing up I gotta do.
 
